@@ -1,3 +1,3 @@
-module github.com/DomicMae1/tracking_money-backend
+module github.com/DomicMae/tracking_money-backend
 
-go 1.25.1
+go 1.22
